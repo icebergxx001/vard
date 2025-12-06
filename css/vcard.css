@@ -675,7 +675,7 @@ body[data-weui-theme=dark] .page.home .page__bd img {
     height: 100vh;
     padding: 15px 45px;
     box-sizing: border-box;
-    background-image: url("/epay/images/vcard/bg.png");
+    background-image: url("../images/bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -705,7 +705,7 @@ body[data-weui-theme=dark] .page.home .page__bd img {
     padding: 20px;
     align-items: center;
     flex-direction: column;
-    background-image: url("/epay/images/vcard/cardbg.png");
+    background-image: url("../images/cardbg.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
